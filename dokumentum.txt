@@ -1,2 +1,2 @@
-név:
-osztály:
+név:Csizmadia Gábor
+osztály:9.c
